@@ -1,1 +1,1 @@
-# Nginx on Alpine Linux 3.3.
+# Nginx for Alpine Linux 3.3.
