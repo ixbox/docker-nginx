@@ -9,10 +9,10 @@ https://hub.docker.com/r/ixbox/nginx/
 ## **Usage**
 
 ```
-docker run --rm -p 80:80 -v $(pwd)/html:/etc/nginx/html ixbox/nginx:1.9
+docker run --rm -p 80:80 -v $(pwd)/html:/etc/nginx/html ixbox/nginx
 ```
 
-## **Package**
 
-https://github.com/ixbox/alpine-nginx
+## **Packages**
 
+Packages are builded based on https://github.com/ixbox/alpine-nginx
